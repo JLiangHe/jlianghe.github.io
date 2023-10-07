@@ -5,7 +5,7 @@ title: Jianliang He
 description: # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of the site
 url: "https://jlianghe.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/JianliangHe.jpeg
+og_image: 
 google_analytics: 
 
 header:
