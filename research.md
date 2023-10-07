@@ -3,7 +3,6 @@ layout: work
 title: <br>
 slug: /work
 ---
-## Research Interests
 - Multiple Hypothesis Testing 
 - Reinforcement Learning Theory
 - Statistical Machine Learning
