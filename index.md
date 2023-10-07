@@ -11,10 +11,10 @@ Hi! I am a undergraduate student in <a href="https://www.fdsm.fudan.edu.cn/about
 	<a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012127">Prof. Bowen Gang</a>. In the summer of 2023, 
 	I'm fortunate to intern at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
 	advised by <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
-
-My research interest lies in the intersection of statistics and machine learning. If you share common interests with me and are interested in potential collaboration or want to have a chat, feel free to contact me via e-mail or <a href="https://jlianghe.github.io/assets/img/wechat.jpg">Wechat</a>. I’m always open to collaboration and conversation :-)
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+My research interest lies in the intersection of statistics and machine learning. If you share common interests with me and are interested in potential collaboration or want to have a chat, feel free to contact me via e-mail or <a href="https://jlianghe.github.io/assets/img/wechat.jpg">Wechat</a>. I’m always open to collaboration and conversation :-)
 </p>
+
+
