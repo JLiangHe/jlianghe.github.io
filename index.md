@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/JianliangHe.jepg
+  src: /assets/img/JianliangHe.jpeg
   alt: website picture
 ---
 <p>
