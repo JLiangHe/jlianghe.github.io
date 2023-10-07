@@ -1,6 +1,6 @@
 ---
 layout: work
-title: 
+title: <br>
 slug: /work
 ---
 ## Research Interests
