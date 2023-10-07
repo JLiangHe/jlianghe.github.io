@@ -14,7 +14,7 @@ Hi! I am a undergraduate student in <a href="https://www.fdsm.fudan.edu.cn/about
 </p>
 
 <p>
-My research interest lies in the intersection of statistics and machine learning. If you share common interests with me and are interested in potential collaboration or want to have a chat, feel free to contact me via e-mail or <a href="https://jlianghe.github.io/assets/img/wechat.jpg">Wechat</a>. I’m always open to collaboration and conversation :-)
+My research interest lies in the intersection of statistics and machine learning. If you share common interests with me and are interested in potential collaboration or want to have a chat, feel free to contact me via e-mail or wechat. I’m always open to collaboration and conversation :-)
 </p>
 
 
