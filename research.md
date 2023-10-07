@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Research
+title: 
 slug: /work
 ---
 ## Research Interests
@@ -15,4 +15,6 @@ slug: /work
   Trambak Banerjeea\*, Bowen Gang\*, and <u>Jianliang He*</u><br>
   Under review, 2023
 - **<a href="assets/files/aRLFA.pdf">Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</a>** 
-  <u>Jianliang He</u>, Han Z
+  <u>Jianliang He</u>,  Han Zhong, and Zhuoran Yang<br>
+  Under review, 2023
+
