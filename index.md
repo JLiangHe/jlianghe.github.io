@@ -16,7 +16,3 @@ Hi! I am a undergraduate student in <a href="https://www.fdsm.fudan.edu.cn/about
 My research interest lies in the intersection of statistics and machine learning. If you share common interests with me and are interested in potential collaboration or want to have a chat, feel free to contact me. I’m always open to collaboration and conversation :-)
 </p>
 
-<p>
-This my financial giant friend <a href="https://zhuoranyang.github.io/">Zhenhao Ke</a>.
-</p>
-
