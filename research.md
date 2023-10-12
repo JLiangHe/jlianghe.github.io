@@ -4,7 +4,7 @@ title: Research Interests
 slug: /work
 ---
 - Multiple Hypothesis Testing 
-- Statistical Decision-Making (Reinforcement Learning etc.)
+- Statistical Decision-Making 
 - Distribution-free Inference
 
 <h2> Publications & Preprints</h2>
