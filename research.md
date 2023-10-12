@@ -1,8 +1,8 @@
 ---
 layout: work
-title: Research Interests
 slug: /work
 ---
+<h2> Research Interests</h2>
 - Multiple Hypothesis Testing 
 - Statistical Decision-Making 
 - Distribution-free Inference
