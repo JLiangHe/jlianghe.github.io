@@ -7,7 +7,7 @@ slug: /work
 - Statistical Decision-Making 
 - Distribution-free Inference
 
-<h2> Publications & Preprints</h2>
+<h2> Publications and Preprints</h2>
 （\* = alphabetical ordering or equal contribution)
 - **<a href="assets/files/IRT_jianliang.pdf">Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</a>**
   Trambak Banerjeea\*, Bowen Gang\*, and <u>Jianliang He</u>\*.<br>
