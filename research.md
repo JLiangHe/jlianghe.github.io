@@ -7,7 +7,7 @@ slug: /work
 - Statistical Decision-Making
 - Distribution-free Inference
 
-<hr style="height:1.5px;opacity: 0.2;color:gray,line-height:16px">
+<hr style="height:1.5px;opacity: 0.2;color:gray;line-height:16px">
 
 <h5> Publications and Preprints</h5>
 （\* = alphabetical ordering or equal contribution)
