@@ -4,7 +4,7 @@ slug: /work
 ---
 <h5> Research Interests</h5>
 - Multiple Hypothesis Testing 
-- Statistical Decision-Making 
+- Statistical Machine Learning
 - Distribution-free Inference
 
 <h5> Publications and Preprints</h5>
