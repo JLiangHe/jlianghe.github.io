@@ -2,12 +2,12 @@
 layout: work
 slug: /work
 ---
-<h4> Research Interests</h4>
+<h5> Research Interests</h5>
 - Multiple Hypothesis Testing 
 - Statistical Decision-Making 
 - Distribution-free Inference
 
-<h4> Publications and Preprints</h4>
+<h5> Publications and Preprints</h5>
 （\* = alphabetical ordering or equal contribution)
 - <a href="assets/files/IRT_jianliang.pdf">Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</a>
   Trambak Banerjeea\*, Bowen Gang\*, and <u>Jianliang He</u>\*.<br>
