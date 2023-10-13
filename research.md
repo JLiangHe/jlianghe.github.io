@@ -6,7 +6,7 @@ slug: /work
 - Multiple Hypothesis Testing 
 - Statistical Decision-Making
 - Distribution-free Inference
-
+<hr>
 <h5> Publications and Preprints</h5>
 （\* = alphabetical ordering or equal contribution)
 - <a href="assets/files/IRT_jianliang.pdf">Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</a>
