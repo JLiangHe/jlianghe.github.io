@@ -16,5 +16,5 @@ slug: /work
   Under review, arXiv:2308.11026, 2023. [<a href="assets/files/IRT_jianliang.pdf">pdf</a>][<a href="assets/files/IRT_jianliang.pdf">video</a>]
 - <a href="https://openreview.net/forum?id=fq1wNrC2ai&">Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</a>
   <u>Jianliang He</u>, Han Zhong, and Zhuoran Yang.<br>
-  Under review, 2023. [<a href="assets/files/aRLFA.pdf">pdf.</a>]
+  Under review, 2023. [<a href="assets/files/aRLFA.pdf">pdf</a>]
 
