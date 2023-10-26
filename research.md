@@ -3,8 +3,8 @@ layout: work
 slug: /work
 ---
 <h5> Research Interests</h5>
+- Statistical Machine Learning
 - Multiple Hypothesis Testing 
-- Statistical Decision-Making
 - Distribution-free Inference
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
