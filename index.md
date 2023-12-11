@@ -16,3 +16,5 @@ Hi! I am a undergraduate student in <a href="https://www.fdsm.fudan.edu.cn/about
 My research interest lies in the intersection of statistics and machine learning. I am always excited to collaborate with others. If you share common interests with me or want to have a chat, feel free to contact me. I’m open to collaboration and conversation :-)
 </p>
 
+<hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
+
