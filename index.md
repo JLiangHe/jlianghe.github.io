@@ -19,5 +19,5 @@ My research interest lies in the intersection of statistics and machine learning
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Education </h5>
-- B.S. in Statistics, Fudan University, 2020 - now
-- High School Affiliated to Fudan University, 2017 - 2020
+- B.S. in Statistics, Fudan University, 2020 - now.
+- High School Affiliated to Fudan University, 2017 - 2020.
