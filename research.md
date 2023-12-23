@@ -13,7 +13,7 @@ slug: /work
 （\* = alphabetical ordering or equal contribution)
 - <b>Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</b>
   Trambak Banerjeea\*, Bowen Gang\*, and <u>Jianliang He</u>\*.<br>
-  Under review at JRSSB, arXiv:2308.11026, 2023. [<a href="https://arxiv.org/abs/2308.11026">arXiv</a>][<a href="assets/files/IRT_jianliang.pdf">pdf</a>][<a href="https://drive.google.com/file/d/1rp_D84YKNKc9Xk9HnqRdVwV0ys6wvqYI/view">video</a>][<a href="https://github.com/trambakbanerjee/IRT/tree/main">code</a>]
+  Under R&R at JRSSB, arXiv:2308.11026, 2023. [<a href="https://arxiv.org/abs/2308.11026">arXiv</a>][<a href="assets/files/IRT_jianliang.pdf">pdf</a>][<a href="https://drive.google.com/file/d/1rp_D84YKNKc9Xk9HnqRdVwV0ys6wvqYI/view">video</a>][<a href="https://github.com/trambakbanerjee/IRT/tree/main">code</a>]
 - <b>Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</b>
   <u>Jianliang He</u>, Han Zhong, and Zhuoran Yang.<br>
   Under review at ICLR, 2023. [<a href="https://openreview.net/forum?id=fq1wNrC2ai&">html</a>][<a href="assets/files/aRLFA.pdf">pdf</a>]
