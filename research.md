@@ -11,7 +11,9 @@ slug: /work
 
 <h5> Publications and Preprints</h5>
 (\* = alphabetical ordering or equal contribution)<br>
-
+- <b>From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems.</b>
+  <u>Jianliang He\*</u>, Siyu Chen, Fengzhuo Zhang and Zhuoran Yang.<br>
+  Under review.
 - <b>Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</b>
   <u>Jianliang He</u>, Han Zhong, and Zhuoran Yang.<br>
   <i>International Conference on Learning Representations (ICLR)</i>, 2024. [<a href="https://openreview.net/forum?id=fq1wNrC2ai&">html</a>][<a href="assets/files/aRLFA.pdf">pdf</a>]
