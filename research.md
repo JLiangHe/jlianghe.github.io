@@ -10,7 +10,7 @@ slug: /work
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Publications and Preprints</h5>
-(&alpha-&beta order) denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
+(α-β order) denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
 - <b>From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems.</b><br>
   <u>Jianliang He</u>\*, Siyu Chen\*, Fengzhuo Zhang, and Zhuoran Yang.<br> 
   Under review.
