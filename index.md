@@ -5,18 +5,18 @@ profile_picture:
   alt: website picture
 ---
 <p>
-Hi! I'm an incoming PhD student at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
+Hi! I'm an incoming Ph.D. student at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
 	working with <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
 Before joining Yale, I pursued my bachelor's degree from <a href="https://www.fdsm.fudan.edu.cn/aboutus/default.html">Department of Statistics and Data Science, School of Management</a> at <a href="https://www.fudan.edu.cn/">Fudan University</a>.  
 Here is a copy of my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
 <p>
-My research interest lies in the intersection of statistics and machine learning. I am always excited to collaborate with others. If you share common interests with me or want to have a chat, feel free to contact me. I’m open to collaboration and conversation :-)
+My research interest lies in the intersection of statistics and machine learning. If you share common interests with me or want to have a chat, feel free to contact me. I’m open to conversation and excited about exploring new topics. :-)
 </p>
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Education </h5>
 - Ph.D. in Statistics, Yale University, 2024.9 (Expected).
-- B.S. in Statistics, School of Management, Fudan University, 2020.9 - 2024.6. Advisor: Bowen Gang.
+- B.S. in Statistics, School of Management, Fudan University, 2020.9 - 2024.6. 
