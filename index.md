@@ -16,7 +16,7 @@ My research interest lies in the intersection of statistics and machine learning
 </p>
 
 <p>
-Email: hejl20 AT fudan DOT edu DOT cn.
+<b>Email:</b> hejl20 AT fudan DOT edu DOT cn.
 </p>
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
