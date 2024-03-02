@@ -15,18 +15,18 @@ header:
     - name: Research
 
 footer:
-  show_powered_by: true
+  show_powered_by: false #true
   contact:
-    - name: Email
-      value: jlianghe@outlook.com
-      link: mailto:jlianghe@outlook.com
-    - name: WeChat
-      value: JLiangHe
-      link: https://jlianghe.github.io/assets/img/wechat.jpg
+    #- name: Email
+    #  value: jlianghe@outlook.com
+    #  link: mailto:jlianghe@outlook.com
+    #- name: WeChat
+    #  value: JLiangHe
+    #  link: https://jlianghe.github.io/assets/img/wechat.jpg
   follow:
 
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/jianliang-he-b2857b24b
+    #- name: LinkedIn
+    #  link: https://www.linkedin.com/in/jianliang-he-b2857b24b
 
 # Build settings
 markdown: kramdown
