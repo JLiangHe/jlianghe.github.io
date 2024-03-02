@@ -15,6 +15,10 @@ Here is a copy of my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 My research interest lies in the intersection of statistics and machine learning. If you share common interests with me or want to have a chat, feel free to contact me. I’m open to conversation and excited about exploring new topics. :-)
 </p>
 
+<p>
+Email: hejl20 AT fudan DOT edu DOT cn.
+</p>
+
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Educations </h5>
