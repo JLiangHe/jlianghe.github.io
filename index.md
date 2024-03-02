@@ -18,5 +18,5 @@ My research interest lies in the intersection of statistics and machine learning
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Educations </h5>
-- Ph.D., Statistics, Yale University, 2024.9 (Expected) - .
+- Ph.D., Statistics, Yale University, 2024.9 (Expected).
 - B.S., Statistics, Fudan University, 2020.9 - 2024.6. 
