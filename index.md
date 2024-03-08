@@ -12,7 +12,7 @@ Here is a copy of my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
 <p>
-My research interest lies in the intersection of statistics and machine learning. If you share common interests with me or want to have a chat, feel free to contact me. I’m open to conversation and excited about exploring new topics. :-)
+My research focuses on the intersection of statistics and machine learning. If you share these interests or simply want to chat, feel free to reach out. I'm always open to new conversations and excited about exploring new topics. :-)
 </p>
 
 <p>
