@@ -7,7 +7,7 @@ profile_picture:
 <p>
 Hi! I'm an incoming Ph.D. student at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
 	working with <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
-Before joining Yale, I pursued my bachelor's degree in statistics from <a href="https://www.fdsm.fudan.edu.cn/aboutus/default.html">Department of Statistics and Data Science, School of Management</a> at <a href="https://www.fudan.edu.cn/">Fudan University</a>.  
+Before joining Yale, I pursued my bachelor's degree in statistics from <a href="https://www.fdsm.fudan.edu.cn/aboutus/default.html">School of Management</a> at <a href="https://www.fudan.edu.cn/">Fudan University</a>.  
 Here is a copy of my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
