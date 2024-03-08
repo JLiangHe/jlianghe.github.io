@@ -21,6 +21,8 @@ slug: /work
   (α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
   Under R&R at <i>Journal of the Royal Statistical Society, Series B (JRSSB)</i>, arXiv:2308.11026. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="assets/files/IRT_jianliang.pdf">[pdf]</a>
 
+<hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
+
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b><br>
   <u>Jianliang He</u>, and Bowen Gang.<br> 
