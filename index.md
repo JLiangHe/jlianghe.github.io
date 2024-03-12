@@ -24,3 +24,6 @@ My research focuses on the intersection of statistics and machine learning. If y
 <h5> Educations </h5>
 - Ph.D., Statistics, Yale University, 2024.9 (Expected).
 - B.S., Statistics, Fudan University, 2020.9 - 2024.6. 
+
+<hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
+This is my financial giant friend <a href="https://www.linkedin.com/in/zhenhao-ke-73a432247/">Zhenghao Ke</a>. 
