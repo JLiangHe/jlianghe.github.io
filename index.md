@@ -23,4 +23,4 @@ My research focuses on the intersection of statistics and machine learning. If y
 
 <h5> Educations </h5>
 - Ph.D., Statistics, Yale University, 2024.9 (Expected).
-- B.S., Statistics, Fudan University, 2020.9 - 2024.6. 
+- B.S., Statistics, Fudan University, 2020.9 - now. 
