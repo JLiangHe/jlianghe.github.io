@@ -3,7 +3,7 @@ layout: work
 slug: /work
 ---
 <h5> Research Interests</h5>
-- Statistical Machine Learning
+- Statistical Decision-making (Reinforcement Learning)
 - Multiple Hypothesis Testing 
 - Distribution-free Inference
 
