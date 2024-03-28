@@ -16,7 +16,7 @@ My research focuses on the intersection of statistics and machine learning. If y
 </p>
 
 <p>
-<b>Email:</b> jianliang [dot] he [at] yale [dot] edu.
+<b>Email:</b> jianliang.he [at] yale.edu
 </p>
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
