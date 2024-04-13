@@ -23,4 +23,4 @@ My research focuses on the intersection of statistics and machine learning. If y
 
 <h5> Educations </h5>
 - Ph.D. in Statistics, Yale University, 2024.9 (Expected).
-- B.S. in Statistics, School of Management, Fudan University, 2020.9 - now. 
+- B.S. in Statistics, Fudan University, 2020.9 - now. 
