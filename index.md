@@ -22,5 +22,5 @@ My research focuses on the intersection of statistics and machine learning. If y
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Educations </h5>
-- Ph.D., Statistics, Yale University, 2024.9 (Expected).
-- B.S., Statistics, Fudan University, 2020.9 - now. 
+- Ph.D. in Statistics, Yale University, 2024.9 (Expected).
+- B.S. in Statistics, School of Management, Fudan University, 2020.9 - now. 
