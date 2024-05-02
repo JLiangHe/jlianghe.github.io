@@ -13,7 +13,7 @@ slug: /work
 (α-β order) denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
 - <b>From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems.</b><br>
   <u>Jianliang He</u>\*, Siyu Chen\*, Fengzhuo Zhang, and Zhuoran Yang.<br> 
-  Under review, 2024. [<a href="assets/files/LLM_Agent.pdf">pdf</a>]
+  <i>In International Conference on Machine Learning (ICML)</i>, 2024. [<a href="assets/files/LLM_Agent.pdf">pdf</a>]
 - <b>Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</b><br>
   <u>Jianliang He</u>, Han Zhong, and Zhuoran Yang.<br>
   <i>In International Conference on Learning Representations (ICLR)</i>, 2024. [<a href="https://arxiv.org/abs/2404.12648">arXiv</a>][<a href="https://arxiv.org/pdf/2404.12648.pdf">pdf</a>]
