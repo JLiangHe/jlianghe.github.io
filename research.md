@@ -4,8 +4,8 @@ slug: /work
 ---
 <h5> 🔬 Research Interests</h5>
 - Statistical Decision-making
-- Multiple Hypothesis Testing 
-- Distribution-free Inference
+- Machine Learning Theory 
+- Selective Inference
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
