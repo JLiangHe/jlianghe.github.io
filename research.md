@@ -26,4 +26,4 @@ slug: /work
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b><br>
   <u>Jianliang He</u>, and Bowen Gang.<br> 
-  Under review, 2024. <a href="assets/files/Selective_overview_MT.pdf">[long version]</a><a href="">[slides]</a>
+  Under review, 2024. <a href="assets/files/Selective_overview_MT.pdf">[long version]</a><a href="assets/files/Thesis_Jianliang_slides.pdf">[slides]</a>
