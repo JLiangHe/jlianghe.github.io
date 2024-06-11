@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/Jianliang_HE.jpeg
+  src: /assets/img/Jianliang_HE.jpg
   alt: website picture
 ---
 <p>
@@ -12,7 +12,7 @@ Here is a copy of my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
 <p>
-My research interests lie in statistics (theory & methodology), machine learning and their intersection. If you share similar interests, feel free to reach out. I'm always open to conversations and excited about exploring new things. :-)
+My research interests lie in statistics, machine learning and their intersection. If you share similar interests, feel free to reach out. I'm always open to conversations and excited about exploring new things. :-)
 </p>
 
 <p>
