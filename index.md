@@ -16,7 +16,7 @@ My research interests lie in statistics, machine learning and their intersection
 </p>
 
 <p>
-<b>Email:</b> jianliang.he [at] yale.edu
+<b>Email:</b> jianliang.he [at] yale.edu<br>
 <b>Office:</b> Kline Tower, 219 Prospect Street, New Haven, CT 06511
 </p>
 
