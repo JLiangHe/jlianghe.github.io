@@ -25,4 +25,4 @@ slug: /work
 
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b> 
-  <a href="assets/files/Selective_overview_MT.pdf">[full version]</a>
+  <a href="assets/files/Selective_overview_MT.pdf">[pdf]</a>
