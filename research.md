@@ -19,9 +19,13 @@ slug: /work
   <i>International Conference on Learning Representations (ICLR)</i>, 2024. [<a href="https://arxiv.org/abs/2404.12648">arXiv</a>][<a href="https://arxiv.org/pdf/2404.12648">pdf</a>]
 
 <h5> Preprints</h5>
+- <b>SAT: Data-light Uncertainty Set Merging via Synthetics, Aggregation, and Test Inversion.</b><br>
+ Shenghao Qin\*, <u>Jianliang He</u>\*, Bowen Gang, and Yin Xia.<br>
+  Submitted, arXiv:2410.12201, 2024. <a href="https://arxiv.org/abs/2410.12201">[arXiv]</a><a href="https://arxiv.org/pdf/2410.12201">[pdf]</a>
 - <b>Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
   (α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
-  Under R&R at <i>Journal of the Royal Statistical Society, Series B (JRSSB)</i>, arXiv:2308.11026, 2023. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="assets/files/IRT_jianliang.pdf">[pdf]</a>
+  Under R&R at <i>Journal of the Royal Statistical Society, Series B (JRSSB)</i>, arXiv:2308.11026, 2023. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
+
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
