@@ -22,7 +22,7 @@ slug: /work
 - <b>SAT: Data-light Uncertainty Set Merging via Synthetics, Aggregation, and Test Inversion.</b><br>
  Shenghao Qin\*, <u>Jianliang He</u>\*, Bowen Gang, and Yin Xia.<br>
   Submitted, arXiv:2410.12201, 2024. <a href="https://arxiv.org/abs/2410.12201">[arXiv]</a><a href="https://arxiv.org/pdf/2410.12201">[pdf]</a>
-- <b>Harnessing the Wisdom Crowd: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
+- <b>Harnessing the Collective Wisdom: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
   (α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
   Under R&R at <i>Journal of the Royal Statistical Society, Series B (JRSSB)</i>, arXiv:2308.11026, 2023. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
 
