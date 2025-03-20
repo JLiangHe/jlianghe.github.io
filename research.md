@@ -20,7 +20,7 @@ slug: /work
 
 <h5> Preprints</h5>
 - <b>In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention.</b><br>
- <u>Jianliang He</u>\*, Xintian Pan, Siyu Chen, and Zhuoran Yang.<br>
+ <u>Jianliang He</u>, Xintian Pan, Siyu Chen, and Zhuoran Yang.<br>
   Submitted, arXiv:2503.12734, 2025. <a href="https://arxiv.org/abs/2503.12734">[arXiv]</a><a href="https://arxiv.org/pdf/2503.12734">[pdf]</a>
 - <b>SAT: Data-light Uncertainty Set Merging via Synthetics, Aggregation, and Test Inversion.</b><br>
  Shenghao Qin\*, <u>Jianliang He</u>\*, Bowen Gang, and Yin Xia.<br>
