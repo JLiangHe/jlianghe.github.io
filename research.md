@@ -3,9 +3,9 @@ layout: work
 slug: /work
 ---
 <h5> Research Interests</h5>
+- Mechanistic Interpretability
 - Machine Learning Theory 
 - Selective Inference
-- Foundation Model
 
 <hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
