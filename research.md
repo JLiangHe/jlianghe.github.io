@@ -3,11 +3,7 @@ layout: work
 slug: /work
 ---
 <h5> Research Interests</h5>
-- Mechanistic Interpretability
-- Machine Learning Theory 
-- Selective Inference
-
-<hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
+Mechanistic Interprpetability, Machine Learning Theory, and chaSelective Inference.
 
 <h5> Publications</h5>
 α-β order denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
@@ -22,15 +18,16 @@ slug: /work
   <i>International Conference on Learning Representations (ICLR)</i>, 2024. [<a href="https://arxiv.org/abs/2404.12648">arXiv</a>][<a href="https://arxiv.org/pdf/2404.12648">pdf</a>]
 
 <h5> Preprints</h5>
-- <b>SAT: Data-light Uncertainty Set Merging via Synthetics, Aggregation, and Test Inversion.</b><br>
- Shenghao Qin\*, <u>Jianliang He</u>\*, Bowen Gang, and Yin Xia.<br>
+- <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
+<u>Jianliang He</u>\*, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
+- <b>Data-light Uncertainty Set Merging with Admissibility: Synthetics, Aggregation, and Test Inversion.</b><br>
+Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang, Bowen Gang, and Yin Xia.<br>
   Submitted, arXiv:2410.12201, 2024. <a href="https://arxiv.org/abs/2410.12201">[arXiv]</a><a href="https://arxiv.org/pdf/2410.12201">[pdf]</a>
 - <b>Harnessing the Collective Wisdom: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
-  (α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
+(α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
  Under Revision at <i>Biometrika</i>, arXiv:2308.11026, 2023. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
 
 
-<hr style="height:1px;opacity:0.3;color:gray;margin:20px 0px 15px 0px">
 
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b> 
