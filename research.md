@@ -3,7 +3,7 @@ layout: work
 slug: /work
 ---
 <h5> Research Interests</h5>
-Mechanistic Interprpetability, Machine Learning Theory, and chaSelective Inference.
+Mechanistic Interprpetability, Machine Learning Theory, and Selective Inference.
 
 <h5> Publications</h5>
 α-β order denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
