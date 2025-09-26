@@ -19,7 +19,7 @@ Mechanistic Interprpetability, Machine Learning Theory, and Selective Inference.
 
 <h5> Preprints</h5>
 - <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
-<u>Jianliang He</u>\*, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
+<u>Jianliang He</u>, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
 - <b>Data-light Uncertainty Set Merging with Admissibility: Synthetics, Aggregation, and Test Inversion.</b><br>
 Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang, Bowen Gang, and Yin Xia.<br>
   Submitted, arXiv:2410.12201, 2024. <a href="https://arxiv.org/abs/2410.12201">[arXiv]</a><a href="https://arxiv.org/pdf/2410.12201">[pdf]</a>

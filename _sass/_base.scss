@@ -152,6 +152,21 @@ b {
 }
 
 /**
+ * Compact sections styling
+ */
+.compact-section {
+  li {
+    margin-bottom: 5px;
+  }
+
+  h5 {
+    font-size: 19px;  // Smaller than regular h5 (21px)
+    margin-bottom: 10px;  // Closer to content below (was 20px)
+    padding-bottom: 5px;  // Smaller padding (was 8px)
+  }
+}
+
+/**
  * Blockquotes
  */
 blockquote {
