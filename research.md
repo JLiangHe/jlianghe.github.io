@@ -16,6 +16,9 @@ Mechanistic Interpretability, Machine Learning Theory, and Selective Inference.
 - <b>Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation.</b><br>
   <u>Jianliang He</u>, Han Zhong, and Zhuoran Yang.<br>
   <i>International Conference on Learning Representations (ICLR)</i>, 2024. [<a href="https://arxiv.org/abs/2404.12648">arXiv</a>][<a href="https://arxiv.org/pdf/2404.12648">pdf</a>]
+ - <b>Harnessing the Collective Wisdom: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
+(α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
+  <i>Biometrika</i>, arXiv:2308.11026, 2025+. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
 
 <h5> Preprints</h5>
 - <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
@@ -23,12 +26,10 @@ Mechanistic Interpretability, Machine Learning Theory, and Selective Inference.
 - <b>Data-light Uncertainty Set Merging with Admissibility: Synthetics, Aggregation, and Test Inversion.</b><br>
 Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang, Bowen Gang, and Yin Xia.<br>
   Submitted, arXiv:2410.12201, 2024. <a href="https://arxiv.org/abs/2410.12201">[arXiv]</a><a href="https://arxiv.org/pdf/2410.12201">[pdf]</a>
-- <b>Harnessing the Collective Wisdom: Fusion Learning using Decision Sequences from Diverse Sources.</b><br>
-(α-β order) Trambak Banerjeea, Bowen Gang, and <u>Jianliang He</u>.<br>
- Under Revision at <i>Biometrika</i>, arXiv:2308.11026, 2023. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
 
 
 
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b> 
   <a href="assets/files/Selective_overview_MT.pdf">[pdf]</a>
+  Short Version as a Book Chapter in Big Data Analytics in <i>Biostatistics and Bioinformatics</i>i>
