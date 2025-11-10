@@ -31,5 +31,5 @@ Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang, Bowen Gang, and Yin Xia.<br>
 
 <h5> Miscellaneous</h5>
 - <b>False Discovery Control in Multiple Testing: A Selective Overview of Theories and Methodologies.</b> 
-  <a href="assets/files/Selective_overview_MT.pdf">[pdf]</a>
-  Short Version as a Book Chapter in Big Data Analytics in <i>Biostatistics and Bioinformatics</i>i>
+  <a href="assets/files/Selective_overview_MT.pdf">[pdf]</a><br>
+  Short Version as a Book Chapter in Big Data Analytics in <i>Biostatistics and Bioinformatics</i>.
