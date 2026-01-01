@@ -34,7 +34,7 @@ My research interests lie in statistics, machine learning and their intersection
 <div class="compact-section">
 <h5> Services </h5>
 <ul>
-<li><b>Conference & Journal Reviewer:</b> NeurIPS (2024-2025), ICLR 2025, ICML 2025, Management Science.</li>
+<li><b>Conference & Journal Reviewer:</b> NeurIPS, ICLR, ICML, Management Science.</li>
 <li><b>Teaching Assistant:</b> S&DS 2410 Probability Theory, MANA130083.01 Nonparametric Statistics.</li>
 </ul>
 </div>
