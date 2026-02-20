@@ -8,7 +8,7 @@ profile_picture:
 <b>About Me:</b> 
 
 Hi! I'm a second-year Ph.D. student at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
-	working with <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
+	advised by <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
 Prior to that, I obtained my Bachelor of Science in Statistics from <a href="https://www.fdsm.fudan.edu.cn/aboutus/default.html">School of Management</a> at <a href="https://www.fudan.edu.cn/">Fudan University</a>. Here is my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
@@ -30,6 +30,14 @@ My research interests lie in statistics, machine learning and their intersection
 <li>B.S. in Statistics, Fudan University, 2020.9 - 2024.6.</li>
 </ul>
 </div>
+
+<h5> Selected Publications</h5>
+- <b>In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention.</b><br>
+ <u>Jianliang He</u>, Xintian Pan, Siyu Chen, and Zhuoran Yang.<br>
+  <i>International Conference on Machine Learning (ICML)</i>, 2025. <a href="https://arxiv.org/abs/2503.12734">[arXiv]</a><a href="https://arxiv.org/pdf/2503.12734">[pdf]</a> <a href="https://github.com/Y-Agent/ICL_linear">[code]</a> <a href="https://y-agent.github.io/posts/in_context_regression/">[blog]</a>
+- <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
+<u>Jianliang He</u>, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
+Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[arXiv]</a><a href="https://arxiv.org/pdf/2602.16849">[pdf]</a> <a href="https://github.com/Y-Agent/modular-addition-feature-learning">[code]</a> <a href="https://y-agent.github.io/posts/modular_addition_feature_learning/">[blog]</a>
 
 <div class="compact-section">
 <h5> Services </h5>
