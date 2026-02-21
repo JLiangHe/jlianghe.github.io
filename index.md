@@ -7,15 +7,16 @@ profile_picture:
 <p style="margin-top: 20px;">
 <b>About Me:</b> 
 
-Hi! I'm a second-year Ph.D. student at <a href="https://statistics.yale.edu//">Department of Statistics and Data Science, Yale University</a>, 
+Hi! I'm a second-year Ph.D. student at <a href="https://statistics.yale.edu/">Department of Statistics and Data Science, Yale University</a>, 
 	advised by <a href="https://zhuoranyang.github.io/">Prof. Zhuoran Yang</a>.
+	I'am also affiliated with <a href="https://cadmy.yale.edu/">Center for Algorithms, Data, and Market Design at Yale (CADMY)</a>.
 Prior to that, I obtained my Bachelor of Science in Statistics from <a href="https://www.fdsm.fudan.edu.cn/aboutus/default.html">School of Management</a> at <a href="https://www.fudan.edu.cn/">Fudan University</a>. Here is my <a href="assets/files/Jianliang-He.pdf">CV</a>.
 </p>
 
 <p>
 <b>Research Interests:</b> 
 
-My research interests lie in statistics, machine learning and their intersection. If you share similar interests, feel free to reach out. I'm always open to conversations and excited about exploring new things. :-)
+My research interests lie in statistics, optimization, machine learning and their intersection. If you share similar interests, feel free to reach out. I'm always open to conversations and excited about exploring new things. :-)
 </p>
 
 <p>
