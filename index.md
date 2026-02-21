@@ -34,12 +34,14 @@ My research interests lie in statistics, optimization, machine learning and thei
 
 <div class="compact-section">
 <h5> Selected Publications</h5>
-- <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
+<ul>
+<li><b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
 <u>Jianliang He</u>, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
-Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[arXiv]</a><a href="https://arxiv.org/pdf/2602.16849">[pdf]</a> <a href="https://github.com/Y-Agent/modular-addition-feature-learning">[code]</a> <a href="https://y-agent.github.io/posts/modular_addition_feature_learning/">[blog]</a>
-- <b>In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention.</b><br>
+Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[arXiv]</a><a href="https://arxiv.org/pdf/2602.16849">[pdf]</a> <a href="https://github.com/Y-Agent/modular-addition-feature-learning">[code]</a> <a href="https://y-agent.github.io/posts/modular_addition_feature_learning/">[blog]</a></li>
+<li><b>In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention.</b><br>
  <u>Jianliang He</u>, Xintian Pan, Siyu Chen, and Zhuoran Yang.<br>
-  <i>International Conference on Machine Learning (ICML)</i>, 2025. <a href="https://arxiv.org/abs/2503.12734">[arXiv]</a><a href="https://arxiv.org/pdf/2503.12734">[pdf]</a> <a href="https://github.com/Y-Agent/ICL_linear">[code]</a> <a href="https://y-agent.github.io/posts/in_context_regression/">[blog]</a>
+  <i>International Conference on Machine Learning (ICML)</i>, 2025. <a href="https://arxiv.org/abs/2503.12734">[arXiv]</a><a href="https://arxiv.org/pdf/2503.12734">[pdf]</a> <a href="https://github.com/Y-Agent/ICL_linear">[code]</a> <a href="https://y-agent.github.io/posts/in_context_regression/">[blog]</a></li>
+</ul>
 </div>
 
 <div class="compact-section">
