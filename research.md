@@ -24,7 +24,7 @@ Machine Learning Theory, Mechanistic Interpretability, and Large Language Model.
   <i>Biometrika</i>, 2026. <a href="https://arxiv.org/abs/2308.11026">[arXiv]</a><a href="https://arxiv.org/pdf/2308.11026">[pdf]</a>
 
 <h5> Preprints</h5>
-- <b>Neural Networks Provably Learn Spectral Representations for Group Composition</b><br>
+- <b>Neural Networks Provably Learn Spectral Representations for Group Composition.</b><br>
 <u>Jianliang He</u>\*, Leda Wang\*, Fengzhuo Zhang, Siyu Chen, and Zhuoran Yang.<br>
 Submitted, arXiv.2606.02993, 2026. <a href="https://arxiv.org/abs/2606.02993">[arXiv]</a><a href="https://arxiv.org/pdf/2606.02993">[pdf]</a> <a href="https://github.com/Y-Agent/nn-group-representation-learning">[code]</a>
 - <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
