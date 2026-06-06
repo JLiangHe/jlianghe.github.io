@@ -39,7 +39,7 @@ My research interests lie in statistics, optimization, machine learning and thei
 <div class="compact-section">
 <h5> Selected Publications</h5>
 <ul>
-<li><b>Neural Networks Provably Learn Spectral Representations for Group Composition</b><br>
+<li><b>Neural Networks Provably Learn Spectral Representations for Group Composition.</b><br>
 <u>Jianliang He</u>*, Leda Wang*, Fengzhuo Zhang, Siyu Chen, and Zhuoran Yang.<br>
 Submitted, arXiv.2606.02993, 2026. <a href="https://arxiv.org/abs/2606.02993">[arXiv]</a><a href="https://arxiv.org/pdf/2606.02993">[pdf]</a> <a href="https://github.com/Y-Agent/nn-group-representation-learning">[code]</a></li>
 <li><b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
@@ -52,6 +52,6 @@ Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[a
 <h5> Services </h5>
 <ul>
 <li><b>Conference & Journal Reviewer:</b> NeurIPS, ICLR, ICML, Management Science.</li>
-<li><b>Teaching Assistant:</b> S&DS 2410 Probability Theory, S&DS 265 Introductory Machine Learning, MANA130083.01 Nonparametric Statistics (Fudan).</li>
+<li><b>Teaching Assistant:</b> S&DS 2410 Probability Theory, S&DS 265 Introductory Machine Learning, MANA130083.01 Nonparametric Statistics (at Fudan).</li>
 </ul>
 </div>
