@@ -9,7 +9,7 @@ Machine Learning Theory, Mechanistic Interpretability, and Large Language Model.
 α-β order denotes alphabetical authorship ordering, and * denotes equal contribution. <br>
 - <b>How Transformers Learn Causal Structures In-Context: Explainable Mechanism Meets Theoretical Guarantee.</b><br>
   Jianzhe Wei, Siyu Chen, <u>Jianliang He</u>, and Zhuoran Yang.<br>
-  <i>International Conference on Learning Representations (ICLR)</i>, 2026. 
+  <i>International Conference on Learning Representations (ICLR)</i>, 2026.  <a href="https://openreview.net/pdf?id=bpF8zgSt41">[pdf]</a>
 - <b>In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention.</b><br>
  <u>Jianliang He</u>, Xintian Pan, Siyu Chen, and Zhuoran Yang.<br>
   <i>International Conference on Machine Learning (ICML)</i>, 2025. <a href="https://arxiv.org/abs/2503.12734">[arXiv]</a><a href="https://arxiv.org/pdf/2503.12734">[pdf]</a> <a href="https://github.com/Y-Agent/ICL_linear">[code]</a> <a href="https://y-agent.github.io/posts/in_context_regression/">[blog]</a>
@@ -26,7 +26,7 @@ Machine Learning Theory, Mechanistic Interpretability, and Large Language Model.
 <h5> Preprints</h5>
 - <b>Neural Networks Provably Learn Spectral Representations for Group Composition.</b><br>
 <u>Jianliang He</u>\*, Leda Wang\*, Fengzhuo Zhang, Siyu Chen, and Zhuoran Yang.<br>
-Submitted, arXiv.2606.02993, 2026. <a href="https://arxiv.org/abs/2606.02993">[arXiv]</a><a href="https://arxiv.org/pdf/2606.02993">[pdf]</a> <a href="https://github.com/Y-Agent/nn-group-representation-learning">[code]</a>
+Submitted, arXiv.2606.02993, 2026. <a href="https://arxiv.org/abs/2606.02993">[arXiv]</a><a href="https://arxiv.org/pdf/2606.02993">[pdf]</a> <a href="https://github.com/Y-Agent/nn-group-representation-learning">[code]</a></a><a href="assets/files/group_slides.pdf">[slides]</a></li>
 - <b>On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking.</b><br>
 <u>Jianliang He</u>, Leda Wang, Siyu Chen, and Zhuoran Yang.<br>
 Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[arXiv]</a><a href="https://arxiv.org/pdf/2602.16849">[pdf]</a> <a href="https://github.com/Y-Agent/modular-addition-feature-learning">[code]</a> <a href="https://y-agent.github.io/posts/modular_addition_feature_learning/">[blog]</a>
