@@ -10,3 +10,75 @@
   width: 100px;
   height: 100px;
 }
+
+.llm-papers {
+  b {
+    overflow-wrap: anywhere;
+  }
+
+  .paper-series {
+    list-style: none;
+    margin: 6px 0 0;
+    padding-left: 12px;
+    border-left: 2px solid #e5e5e5;
+
+    > li {
+      position: relative;
+      padding-left: 14px;
+      margin-bottom: 3px;
+
+      &::before {
+        content: "▸";
+        position: absolute;
+        left: 0;
+        color: #707070;
+      }
+    }
+
+    > li:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .paper-authors {
+    display: inline;
+
+    summary {
+      display: inline;
+      margin-left: 8px;
+      color: #707070;
+      font-size: 0.85em;
+      list-style: none;
+      cursor: pointer;
+
+      &::before {
+        content: "▸";
+        display: inline-block;
+        margin-right: 4px;
+      }
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:focus-visible {
+        outline: 2px solid #707070;
+        outline-offset: 2px;
+      }
+    }
+
+    &[open] > summary::before {
+      content: "▾";
+    }
+
+    p {
+      margin: 8px 0;
+      padding-left: 12px;
+      border-left: 2px solid #d5dfe9;
+    }
+  }
+}

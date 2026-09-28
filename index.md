@@ -51,7 +51,7 @@ Submitted, arXiv.2602.16849, 2026. <a href="https://arxiv.org/abs/2602.16849">[a
 <div class="compact-section">
 <h5> Services </h5>
 <ul>
-<li><b>Conference & Journal Reviewer:</b> NeurIPS, ICLR, ICML, Management Science.</li>
-<li><b>Teaching Assistant:</b> S&DS 2410 Probability Theory, S&DS 265 Introductory Machine Learning, MANA130083.01 Nonparametric Statistics (at Fudan).</li>
+<li><b>Conference & Journal Reviewer:</b> NeurIPS, ICLR, ICML, COLM, Management Science.</li>
+<li><b>Teaching Assistant:</b> S&DS 2410 Probability Theory, S&DS 265 Introductory Machine Learning, MANA130083.01 Nonparametric Statistics.</li>
 </ul>
 </div>
