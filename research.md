@@ -39,6 +39,11 @@ Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang\*, Bowen Gang, and Yin Xia.<br>
 
 <ul class="llm-papers">
   <li>
+    <b>Relative Generalization Invariance of LLM Pretraining.</b><br>
+    <div class="paper-byline">Fengzhuo Zhang, Shuche Wang, Shenggui Li, Tianyu Ruan, <u>Jianliang He</u>, Ivor Tsang, Tianyu Pang, Chao Du, Tianwei Zhang, and Zhuoran Yang.</div>
+    arXiv:2609.33016, 2026. <a href="https://arxiv.org/abs/2609.33016">[arXiv]</a> <a href="https://arxiv.org/pdf/2609.33016">[pdf]</a>
+  </li>
+  <li>
     <b>Antares: Foundation Models for Agentic Vulnerability Localization.</b> <a href="https://huggingface.co/collections/fdtn-ai/antares">[HuggingFace]</a><br>
     <div class="paper-byline">Foundation AI, Cisco.
     <details class="paper-authors">
