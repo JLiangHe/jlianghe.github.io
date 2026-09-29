@@ -67,14 +67,14 @@ Shenghao Qin\*, <u>Jianliang He</u>\*, Qi Kuang\*, Bowen Gang, and Yin Xia.<br>
     <div class="paper-byline">Foundation AI, Cisco.</div>
     <ul class="paper-series">
       <li>
-        <b>Reasoning</b>, 2026. <a href="https://arxiv.org/abs/2601.21051" title="Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report.">[arXiv]</a> <a href="https://arxiv.org/pdf/2601.21051" title="Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report.">[pdf]</a>
+        <b>Reasoning</b>, <i>Technical Report</i>, 2026. <a href="https://arxiv.org/abs/2601.21051" title="Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report.">[arXiv]</a> <a href="https://arxiv.org/pdf/2601.21051" title="Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report.">[pdf]</a>
         <details class="paper-authors">
           <summary>Full authors</summary>
           <p>Zhuoran Yang, Ed Li, <u>Jianliang He</u>, Aman Priyanshu, Baturay Saglam, Paul Kassianik, Sajana Weerawardhena, Anu Vellore, Blaine Nelson, Neusha Javidnia, Arthur Goldblatt, Fraser Burch, Avi Zohary, Assaf Eisenman, Mahdi Sabbaghi, Supriti Vijay, Rahim Dharssi, Dhruv Kedia, Kojin Oshiba, Yaron Singer, and Amin Karbasi.</p>
         </details>
       </li>
       <li>
-        <b>Instruct</b>, 2025. <a href="https://arxiv.org/abs/2508.01059" title="Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report.">[arXiv]</a> <a href="https://arxiv.org/pdf/2508.01059" title="Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report.">[pdf]</a>
+        <b>Instruct</b>, <i>Technical Report</i>, 2025. <a href="https://arxiv.org/abs/2508.01059" title="Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report.">[arXiv]</a> <a href="https://arxiv.org/pdf/2508.01059" title="Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report.">[pdf]</a>
         <details class="paper-authors">
           <summary>Full authors</summary>
           <p>Sajana Weerawardhena, Paul Kassianik, Blaine Nelson, Baturay Saglam, Anu Vellore, Aman Priyanshu, Supriti Vijay, Massimo Aufiero, Arthur Goldblatt, Fraser Burch, Ed Li, <u>Jianliang He</u>, Dhruv Kedia, Kojin Oshiba, Zhouran Yang, Yaron Singer, and Amin Karbasi.</p>
